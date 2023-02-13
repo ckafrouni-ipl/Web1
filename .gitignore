@@ -1,0 +1,5 @@
+# ignore other web1 projects
+Web1__*/
+
+.idea
+.vscode
